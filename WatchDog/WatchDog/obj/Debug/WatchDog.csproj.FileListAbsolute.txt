@@ -1,0 +1,10 @@
+C:\Users\ygzat\Desktop\WatchDog\WatchDog\bin\Debug\WatchDog.exe.config
+C:\Users\ygzat\Desktop\WatchDog\WatchDog\bin\Debug\WatchDog.exe
+C:\Users\ygzat\Desktop\WatchDog\WatchDog\bin\Debug\WatchDog.pdb
+C:\Users\ygzat\Desktop\WatchDog\WatchDog\obj\Debug\WatchDog.csproj.AssemblyReference.cache
+C:\Users\ygzat\Desktop\WatchDog\WatchDog\obj\Debug\WatchDog.Form1.resources
+C:\Users\ygzat\Desktop\WatchDog\WatchDog\obj\Debug\WatchDog.Properties.Resources.resources
+C:\Users\ygzat\Desktop\WatchDog\WatchDog\obj\Debug\WatchDog.csproj.GenerateResource.cache
+C:\Users\ygzat\Desktop\WatchDog\WatchDog\obj\Debug\WatchDog.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\Desktop\WatchDog\WatchDog\obj\Debug\WatchDog.exe
+C:\Users\ygzat\Desktop\WatchDog\WatchDog\obj\Debug\WatchDog.pdb
